@@ -1,0 +1,9 @@
+Smatramo da cijena jednog proizvoda ne moze da bude 0 a samim tim ni 711,710,709
+
+a) Bilo koja permutacija vrijednsti {1.2$,1.25$,1.5$,3.16$} je resenje.
+   Kako svaki proizvod moze da ima cijenu iz opsega 1-708 centi ili 0.01-7.08 dolara,a kako imamo 4 proizvoda maksimalan broj poziva optimizacione funkcije je 708^4.
+
+b) Bilo koja permutacija vrijednsti {1.2$,1.25$,1.5$,3.16$} je resenje.
+   Kako svaki proizvod moze da ima cijenu iz opsega 1-708 centi ili 0.01-7.08 dolara,a kako cijenu jednog izracunavamo preko ostala tri proizvoda maksimalan broj poziva optimizacione funkcije je 708^3.
+
+c) Brzi je drugi program,moze se zakljuciti po broju petlji unutar programa i po vremenu izvrsavanja istog.

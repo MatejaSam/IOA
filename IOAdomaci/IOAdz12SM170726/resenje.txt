@@ -1,0 +1,4 @@
+Niz 1 i 0 koji predstavljaju resenje (binarni broj)
+1 1 0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 1 0 1
+Decimalno resenje
+1789486405

@@ -1,0 +1,7 @@
+IOA DZ3
+Resenje
+	Minimalna vrednosti putanje koja je dobijena je 698 ,sto je dobijeno iz najbolje putanje: 2,10 - 3,9 - 5,1 - 1,6 - 6,4 - 7,4 - 4,9 - 9,8 - 8,10.
+
+Napomena: Tokom rada zamog zadatka ostavio sam sve ispise na konzoli radi lakseg uocavanja i rada samog zadatka (Permutacija, izgleda stabla, niz putanja, vrednosti putanja...)
+	  Takodje sam i svugde koristio indeksiran niz od 0 do 9 , sto je po meni bojla praksa , tako da se dobijaju vrednosti  1,9 - 2,8 - 4,0 -0,5 - 5,3 - 6,3 - 3,8 - 8,7 - 7,9 ;
+	  sto je potpuno isto gornjem rezultatu za vrednosti od 1 do 10;

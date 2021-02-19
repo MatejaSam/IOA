@@ -1,0 +1,50 @@
+1.
+Pretrage po cetiri cene odredjene ukupne vrednosti 7.11.
+Postoje dva nacina pretrage prvo jedan pa onda ostalo a i b.
+---------------------------
+2.
+Redosled obilaska svih rupa , prvi slucaj 8 ,drugi 12 rupa.
+Obilazak po TSP problemu.
+Rastojanje izmedju rupa po svim mogucim obilascima.
+Pri cemu poredimo sa svim prethodnima i dalje pamtimo ispis.
+---------------------------
+3.
+Deset gradova za povezivanje radi mreze.
+Resenje po kompletnom grafu K10.
+Bez postojanja petlji.
+Potrebno je povezati potpunom pretragom bez petlji.
+---------------------------
+4.
+Prikaz beselemove funkcije i dalje prikaz grafika i zverno racunanje.
+---------------------------
+5.
+Racunanje izlaza zadatog vremena putem neuralne mreze.
+---------------------------
+6.
+Postavljanje servera u razne ormare po razlicitoj vrednosti i cetiri razlicita servera upotrebom linearne progresije.
+Gotova funkcija iz pythona i koristi se funkcija za optimizaciju.
+---------------------------
+7.
+Dobijanja kumulativnih minimuma.
+Upotreba pretrazivanja i nlp problem preko beselema
+Zadatak za vezbu ima 64 fjla koji dalje SAT klasama pretrazujemo.
+---------------------------
+8.
+Implementacija slicnog algoritma upotrebom genetickog algoritma za racunanje
+Slican slucaj kao za zadatak 7.
+Geneticki algoritam na genetici od 2000.
+---------------------------
+9.
+Pronalaza signala u gde se nalzai upotrebmo funkcije, koje smo dobili.
+Diferencijalna evolucija.
+Zadatak koristi funkcije sinusa i ostalo kao funkcije za dalje racunanje svih tacaka.
+---------------------------
+10.
+Optimizaciono jato za postavljanje i povezivanje kablova PSO problemi.
+---------------------------
+11.
+Odredjivanje pareto fronta od datog niza gde se koristi ona dva dela za zadatak tako da za dve funkcije.
+---------------------------
+12.
+Niz od 1 i 0 de gde se dobija Dalje je taj niz koji se dalje pomera po potrebi
+---------------------------
